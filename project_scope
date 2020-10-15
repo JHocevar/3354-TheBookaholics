@@ -1,24 +1,24 @@
 Book Shelf Software 
 1 General Book management 
-1.1 Load books from Download folder, provide support to .txt and .pdf 
-1.2 Delete books 
-1.3 Add lists of books 
-1.4 Manage categories (add/remove category and books in category) 
-1.5 Search books
-1.6 Alert user when a new .txt or .pdf is available in the Download folder to add (option can be turned on or off by the user)
+	1.1 Load books from Download folder, provide support to .txt and .pdf 
+	1.2 Delete books 
+	1.3 Add lists of books 
+	1.4 Manage categories (add/remove category and books in category) 
+	1.5 Search books
+	1.6 Alert user when a new .txt or .pdf is available in the Download folder to add (option can be turned on or off by the user)
 2 Book reading 
-2.1 Swipe to go to the next/previous page 
-2.2 Bookmark a page and go to the bookmark page (optional for .pdf) 
-2.3 Day & night mode (optional for .pdf) 
-2.4 Search for word and go to the word (optional for .pdf) 
-2.5 Change font and size of the text in the book (optional) 
-2.6 Extract chapters and directly go to certain chapters (optional) 
+	2.1 Swipe to go to the next/previous page 
+	2.2 Bookmark a page and go to the bookmark page (optional for .pdf) 
+	2.3 Day & night mode (optional for .pdf) 
+	2.4 Search for word and go to the word (optional for .pdf) 
+	2.5 Change font and size of the text in the book (optional) 
+	2.6 Extract chapters and directly go to certain chapters (optional) 
 3 Book notations (optional) 
-3.1 Add notation to certain page 
-3.2 View notations on page with notations 
-3.3 Edit notations 
-3.4 View all notations for a book 
-3.5 Delete notations 
+	3.1 Add notation to certain page 
+	3.2 View notations on page with notations 
+	3.3 Edit notations 
+	3.4 View all notations for a book 
+	3.5 Delete notations 
 4 Maintain Book lists
 	4.1 Add List
 	4.2 Remove List
